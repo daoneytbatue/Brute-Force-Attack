@@ -1,2 +1,6 @@
 # Brute-Force-Attack
-Log analysis performed on a machine , sorted invalid login attempts 
+In this project ,I learned about
+- Linux System Administration & Scripting
+- Incident Response
+- Log Analysis & User Management
+- Network Security & Monitoring
